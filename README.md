@@ -1,2 +1,0 @@
-# dev-flyer
-download flyer
